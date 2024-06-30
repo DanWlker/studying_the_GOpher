@@ -10,6 +10,10 @@
 1. [When should you use `errors.As` and when to use `errors.Is` for your own custom errors](https://stackoverflow.com/a/76918940)
     - `errors.Is` for `var` errors, `errors.As` for struct errors that has to be initialized (especially if it has custom fields)
 
+1. [When to use Golang's default MUX versus doing your own](https://stackoverflow.com/a/30063908) 
+
+1. [Should I use ServeMux or http directly in golang](https://stackoverflow.com/q/36248946)
+
 ## Good Articles
 
 1. [init() in Go Programming](https://david-yappeter.medium.com/init-in-go-programming-31e2c2bc2371)
