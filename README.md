@@ -18,6 +18,8 @@
 1. [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
     - Read it
 
+1. [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
@@ -36,6 +38,8 @@
     - 16:30
     - Use nil to disable channels
     - Nil is valid as a read only empty map
+
+1. [The standard library now has all you need for advanced routing in Go](https://www.youtube.com/watch?v=H7tbjKFSg58)
 
 ## Good Books
 
