@@ -24,6 +24,8 @@
 
 1. [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 
+1. [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
