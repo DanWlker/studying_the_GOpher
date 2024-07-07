@@ -2,6 +2,16 @@
 
 [Huge Golang Guide](https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit?pli=1)
 
+## Useful Repos
+
+1. [golangci-lint](https://github.com/golangci/golangci-lint)
+1. [golangci-lint-config-examples](https://github.com/ccoVeille/golangci-lint-config-examples)
+1. [gci](https://github.com/daixiang0/gci)
+
+        gci write --skip-generated -s standard -s default -s localmodule .
+
+1. [gofumpt](https://github.com/mvdan/gofumpt)
+
 ## Stack Overflow
 
 1. [What does the . in a Go import statement do](https://stackoverflow.com/a/6478990)
