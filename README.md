@@ -11,6 +11,7 @@
         gci write --skip-generated -s standard -s default -s localmodule .
 
 1. [gofumpt](https://github.com/mvdan/gofumpt)
+1. [mingo](https://github.com/bobg/mingo.git)
 
 ## Stack Overflow
 
