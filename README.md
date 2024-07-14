@@ -55,7 +55,35 @@
 
 1. [The standard library now has all you need for advanced routing in Go](https://www.youtube.com/watch?v=H7tbjKFSg58)
 
-1.
+1.[GothamGo 2018 - Things in Go I Never Use by Mat Ryer](https://www.youtube.com/watch?v=5DVV36uqQ4E)
+    - Lazy initialization (20:54)
+        - ```sync.Once```: Guarantees thing inside code block will be called exactly once
+    - You can pass {the struct you want to work on} to {a method called on the struct using dot, ex. ```Struct.method(actualObject)```}, don't do this but its interesting (22:20)
+
+1. [Golang UK Conference 2016 - Dave Cheney - SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M)
+    - Single Responsibility Principle
+        - Structure functions and types into packages that exhibit natural cohesion
+        - Avoid `shared`, `utils`, which causes the packages to have multiple responsibilities
+    - [Open / Closed Principle](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)
+        - Open for extension, closed for modification
+        - Use embedding rather than inheritanca
+    - Liskov Substitution Principle
+        - Implicit interfaces, use small interfaces and express the dependencies between packages as interfaces
+        - Require no more, promise no less
+    - Interface Segregation Principle
+        - Clients should not be forced to depend on methods they don't use
+        - Ex. A `Save` function should only need a `Writer`, instead of `Read` or `File`, or even `Close`, therefore it can work with network writer, file writers etc
+    - Dependency Inversion Principle
+        - High level modules should not depend on low level modules, both should depend on abstractions
+        - Abstractions should not depend on details. Details should depend on abstractions
+        - Import graph should be acyclic, push responsibility as high as possible in the import tree
+
+1. [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://www.youtube.com/watch?v=yeetIgNeIkc)
+    - 9:16: ```defer log.Println("------")``` even if exits abnormally this code will print
+    - defer can also be used for teardown functions for any setup / timers that need to stop at end of the line
+    - 21:18: [Retry code](https://github.com/matryer/try/blob/master/try.go)
+    - 22:10: Empty structs to group methods methods don't capture the receiver, so the variable need not expose the private type
+    - 23:40: Semaphore code, limit hom many stuff is executed at once
 
 ## Good Books
 
