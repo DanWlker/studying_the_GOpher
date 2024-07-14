@@ -35,6 +35,8 @@
 
 1. [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 
+1. [Proper HTTP Shutdown in Go](https://dev.to/mokiat/proper-http-shutdown-in-go-3fji)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
