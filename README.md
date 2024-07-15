@@ -57,7 +57,7 @@
 
 1. [The standard library now has all you need for advanced routing in Go](https://www.youtube.com/watch?v=H7tbjKFSg58)
 
-1.[GothamGo 2018 - Things in Go I Never Use by Mat Ryer](https://www.youtube.com/watch?v=5DVV36uqQ4E)
+1. [GothamGo 2018 - Things in Go I Never Use by Mat Ryer](https://www.youtube.com/watch?v=5DVV36uqQ4E)
     - Lazy initialization (20:54)
         - ```sync.Once```: Guarantees thing inside code block will be called exactly once
     - You can pass {the struct you want to work on} to {a method called on the struct using dot, ex. ```Struct.method(actualObject)```}, don't do this but its interesting (22:20)
