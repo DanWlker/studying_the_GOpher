@@ -13,7 +13,7 @@
 1. [gofumpt](https://github.com/mvdan/gofumpt)
 1. [mingo](https://github.com/bobg/mingo.git)
 
-## Stack Overflow
+## Stack Overflow || Reddit
 
 1. [What does the . in a Go import statement do](https://stackoverflow.com/a/6478990)
     - Allows functions inside the package to be called directly, but is not recommended
@@ -24,6 +24,8 @@
 1. [When to use Golang's default MUX versus doing your own](https://stackoverflow.com/a/30063908) 
 
 1. [Should I use ServeMux or http directly in golang](https://stackoverflow.com/q/36248946)
+
+1. [When to use and not to use generics](https://www.reddit.com/r/golang/comments/17evm2i/comment/k65wps6/)
 
 ## Good Articles
 
