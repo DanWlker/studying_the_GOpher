@@ -92,3 +92,8 @@
 ## Good Books
 
 1. [100 Go Mistakes and How to Avoid Them](https://100go.co/)
+
+## Notes
+
+1. `runtime.NumCPU`
+2. `runtime.GOMAXPROCS()`
