@@ -89,6 +89,8 @@
     - 22:10: Empty structs to group methods methods don't capture the receiver, so the variable need not expose the private type
     - 23:40: Semaphore code, limit hom many stuff is executed at once
 
+1. [How To Build A Chat And Data Feed With WebSockets In Golang?](https://www.youtube.com/watch?v=JuUAEYLkGbM)
+
 ## Good Books
 
 1. [100 Go Mistakes and How to Avoid Them](https://100go.co/)
