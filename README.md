@@ -99,3 +99,13 @@
 
 1. `runtime.NumCPU`
 2. `runtime.GOMAXPROCS()`
+
+## Others
+
+1. [Introduction to gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
+
+1. [What is the difference between grpc and websocket?](https://stackoverflow.com/a/48113832)
+
+1. [Will WebSocket survive HTTP/2](https://www.infoq.com/articles/websocket-and-http2-coexist/)
+
+1. [gRPC vs WebSockets](https://ably.com/topic/grpc-vs-websocket)
