@@ -111,3 +111,5 @@
 1. [gRPC vs WebSockets](https://ably.com/topic/grpc-vs-websocket)
 
 1. [Docker stop containers](https://spacelift.io/blog/docker-stop-container)
+
+1. [Docker distroless Docker exec failed: No such file or directory when CGO is enabled](https://stackoverflow.com/a/72727838)
