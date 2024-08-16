@@ -109,3 +109,5 @@
 1. [Will WebSocket survive HTTP/2](https://www.infoq.com/articles/websocket-and-http2-coexist/)
 
 1. [gRPC vs WebSockets](https://ably.com/topic/grpc-vs-websocket)
+
+1. [Docker stop containers](https://spacelift.io/blog/docker-stop-container)
