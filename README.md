@@ -41,6 +41,8 @@
 
 1. [Proper HTTP Shutdown in Go](https://dev.to/mokiat/proper-http-shutdown-in-go-3fji)
 
+1. [Golang Trick: Export unexport method for test](https://medium.com/@robiplus/golang-trick-export-for-test-aa16cbd7b8cd)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
