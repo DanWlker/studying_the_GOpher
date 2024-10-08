@@ -29,6 +29,8 @@
 
 1. [How to test a unexported (private) function in go (golang)?](https://stackoverflow.com/a/60813569), the [article](https://medium.com/@robiplus/golang-trick-export-for-test-aa16cbd7b8cd)
 
+1. [How to add new methods to an existing type in Go?](https://stackoverflow.com/a/43507669)
+
 ## Good Articles
 
 1. [init() in Go Programming](https://david-yappeter.medium.com/init-in-go-programming-31e2c2bc2371)
