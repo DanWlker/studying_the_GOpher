@@ -49,6 +49,8 @@
 
 1. [Mastering Go Structs: 7 Advanced Techniques for Efficient Code](https://blog.stackademic.com/mastering-go-structs-7-advanced-techniques-for-efficient-code-fe71f3b56613)
 
+1. [Understanding Go's UTF-8 Support](https://ashwingopalsamy.hashnode.dev/understanding-gos-utf-8-support)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
