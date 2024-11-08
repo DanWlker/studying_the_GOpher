@@ -51,6 +51,12 @@
 
 1. [Understanding Go's UTF-8 Support](https://ashwingopalsamy.hashnode.dev/understanding-gos-utf-8-support)
 
+## Bites from the Golang Manual (aka. RTFM)
+
+1. [nil_error behaviors](https://go.dev/doc/faq#nil_error)
+
+1. [Constants](https://go.dev/ref/spec#Constants) 
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
@@ -125,3 +131,5 @@
 1. [Docker stop containers](https://spacelift.io/blog/docker-stop-container)
 
 1. [Docker distroless Docker exec failed: No such file or directory when CGO is enabled](https://stackoverflow.com/a/72727838)
+
+1. [Golang's null safety proposal discussion](https://github.com/golang/go/issues/49202) 
