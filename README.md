@@ -31,6 +31,8 @@
 
 1. [How to add new methods to an existing type in Go?](https://stackoverflow.com/a/43507669)
 
+1. [Go constants beyond basics](https://www.reddit.com/r/golang/comments/1gll74w/go_constants_beyond_basics/) 
+
 ## Good Articles
 
 1. [init() in Go Programming](https://david-yappeter.medium.com/init-in-go-programming-31e2c2bc2371)
