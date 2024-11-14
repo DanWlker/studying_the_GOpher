@@ -57,6 +57,8 @@
 
 1. [Constants](https://go.dev/ref/spec#Constants) 
 
+1. [Go 1.23 timer changes](https://tip.golang.org/doc/go1.23#timer-changes)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
