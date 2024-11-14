@@ -135,3 +135,5 @@
 1. [Docker distroless Docker exec failed: No such file or directory when CGO is enabled](https://stackoverflow.com/a/72727838)
 
 1. [Golang's null safety proposal discussion](https://github.com/golang/go/issues/49202) 
+
+1. [Postgres don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
