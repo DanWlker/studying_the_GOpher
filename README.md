@@ -31,7 +31,9 @@
 
 1. [How to add new methods to an existing type in Go?](https://stackoverflow.com/a/43507669)
 
-1. [Go constants beyond basics](https://www.reddit.com/r/golang/comments/1gll74w/go_constants_beyond_basics/) 
+1. [Go constants beyond basics](https://www.reddit.com/r/golang/comments/1gll74w/go_constants_beyond_basics/)
+
+1. [Why to not choose Ginkgo](https://www.reddit.com/r/golang/comments/1azj63h/comment/ks1srp2/) 
 
 ## Good Articles
 
