@@ -53,6 +53,8 @@
 
 1. [Understanding Go's UTF-8 Support](https://ashwingopalsamy.hashnode.dev/understanding-gos-utf-8-support)
 
+1. [Google style guide assertion libraries](https://google.github.io/styleguide/go/decisions.html#assertion-libraries) 
+
 ## Bites from the Golang Manual (aka. RTFM)
 
 1. [nil_error behaviors](https://go.dev/doc/faq#nil_error)
