@@ -63,6 +63,8 @@
 
 1. [Go 1.23 timer changes](https://tip.golang.org/doc/go1.23#timer-changes)
 
+1. [Go subtests](https://go.dev/blog/subtests) 
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
