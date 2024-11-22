@@ -33,7 +33,9 @@
 
 1. [Go constants beyond basics](https://www.reddit.com/r/golang/comments/1gll74w/go_constants_beyond_basics/)
 
-1. [Why to not choose Ginkgo](https://www.reddit.com/r/golang/comments/1azj63h/comment/ks1srp2/) 
+1. [Why to not choose Ginkgo](https://www.reddit.com/r/golang/comments/1azj63h/comment/ks1srp2/)
+
+1. [Return zero value for generic types](https://stackoverflow.com/questions/70585852/return-default-value-for-generic-type/70589302#70589302) 
 
 ## Good Articles
 
@@ -63,7 +65,9 @@
 
 1. [Go 1.23 timer changes](https://tip.golang.org/doc/go1.23#timer-changes)
 
-1. [Go subtests](https://go.dev/blog/subtests) 
+1. [Go subtests](https://go.dev/blog/subtests)
+
+1. [Go slice tricks](https://go.dev/wiki/SliceTricks) 
 
 ## Good Videos
 
