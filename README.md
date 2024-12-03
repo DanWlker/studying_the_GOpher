@@ -21,7 +21,7 @@
 1. [When should you use `errors.As` and when to use `errors.Is` for your own custom errors](https://stackoverflow.com/a/76918940)
     - `errors.Is` for `var` errors, `errors.As` for struct errors that has to be initialized (especially if it has custom fields)
 
-1. [When to use Golang's default MUX versus doing your own](https://stackoverflow.com/a/30063908) 
+1. [When to use Golang's default MUX versus doing your own](https://stackoverflow.com/a/30063908)
 
 1. [Should I use ServeMux or http directly in golang](https://stackoverflow.com/q/36248946)
 
@@ -35,7 +35,7 @@
 
 1. [Why to not choose Ginkgo](https://www.reddit.com/r/golang/comments/1azj63h/comment/ks1srp2/)
 
-1. [Return zero value for generic types](https://stackoverflow.com/questions/70585852/return-default-value-for-generic-type/70589302#70589302) 
+1. [Return zero value for generic types](https://stackoverflow.com/questions/70585852/return-default-value-for-generic-type/70589302#70589302)
 
 1. [Truncating a string in templates](https://stackoverflow.com/questions/23466497/how-to-truncate-a-string-in-a-golang-template/36093426#36093426)
 
@@ -59,19 +59,19 @@
 
 1. [Understanding Go's UTF-8 Support](https://ashwingopalsamy.hashnode.dev/understanding-gos-utf-8-support)
 
-1. [Google style guide assertion libraries](https://google.github.io/styleguide/go/decisions.html#assertion-libraries) 
+1. [Google style guide assertion libraries](https://google.github.io/styleguide/go/decisions.html#assertion-libraries)
 
 ## Bites from the Golang Manual (aka. RTFM)
 
 1. [nil_error behaviors](https://go.dev/doc/faq#nil_error)
 
-1. [Constants](https://go.dev/ref/spec#Constants) 
+1. [Constants](https://go.dev/ref/spec#Constants)
 
 1. [Go 1.23 timer changes](https://tip.golang.org/doc/go1.23#timer-changes)
 
 1. [Go subtests](https://go.dev/blog/subtests)
 
-1. [Go slice tricks](https://go.dev/wiki/SliceTricks) 
+1. [Go slice tricks](https://go.dev/wiki/SliceTricks)
 
 ## Good Videos
 
@@ -148,9 +148,29 @@
 
 1. [Docker distroless Docker exec failed: No such file or directory when CGO is enabled](https://stackoverflow.com/a/72727838)
 
-1. [Golang's null safety proposal discussion](https://github.com/golang/go/issues/49202) 
+1. [Golang's null safety proposal discussion](https://github.com/golang/go/issues/49202)
 
 1. [Postgres don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+
+## GraphQL
+
+1. [Fragment, minimizes token usage as well](https://graphql.org/learn/queries/#fragments)
+
+1. [Aliases](https://graphql.org/learn/queries/#aliases)
+
+1. [Meta-fields, ex. __typename](https://graphql.org/learn/queries/#meta-fields)
+
+1. [Default variables](https://graphql.org/learn/queries/#meta-fields)
+
+1. [Interface types](https://graphql.org/learn/schema/#interface-types)
+
+1. [Inline fragments](https://graphql.org/learn/queries/#inline-fragments)
+    - It allows to show different fields depending on what the runtime type for the interface is
+
+1. [Union types, because why not](https://graphql.org/learn/schema/#union-types)
+
+1. [Input object types](https://graphql.org/learn/schema/#input-object-types)
+    - Use objects for input
 
 ## Fuck Yaml Specifically
 
