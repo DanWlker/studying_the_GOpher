@@ -37,6 +37,10 @@
 
 1. [Return zero value for generic types](https://stackoverflow.com/questions/70585852/return-default-value-for-generic-type/70589302#70589302) 
 
+1. [Truncating a string in templates](https://stackoverflow.com/questions/23466497/how-to-truncate-a-string-in-a-golang-template/36093426#36093426)
+
+1. [Slices behavior](https://stackoverflow.com/questions/39993688/are-slices-passed-by-value)
+
 ## Good Articles
 
 1. [init() in Go Programming](https://david-yappeter.medium.com/init-in-go-programming-31e2c2bc2371)
@@ -147,3 +151,16 @@
 1. [Golang's null safety proposal discussion](https://github.com/golang/go/issues/49202) 
 
 1. [Postgres don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+
+## Fuck Yaml Specifically
+
+1. [noyaml website](https://noyaml.com/)
+    - this is good
+
+1. [Yaml: Probably not so great after all](https://www.arp242.net/yaml-config.html)
+
+1. [Valueable lessons in over engineering](https://tinyurl.com/lessons-in-over-engineering)
+
+1. [Yaml test matrix](https://matrix.yaml.info/valid.html)
+
+1. [Yaml strips out underscore](https://drupal.stackexchange.com/questions/238639/why-does-yaml-parser-strippes-out-underscore)
