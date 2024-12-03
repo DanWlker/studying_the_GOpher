@@ -172,6 +172,8 @@
 1. [Input object types](https://graphql.org/learn/schema/#input-object-types)
     - Use objects for input
 
+1. [GraphQL check complexity](https://gqlgen.com/reference/complexity/)
+
 ## Fuck Yaml Specifically
 
 1. [noyaml website](https://noyaml.com/)
