@@ -61,7 +61,9 @@
 
 1. [Google style guide assertion libraries](https://google.github.io/styleguide/go/decisions.html#assertion-libraries)
 
-1. [Understanding Singleflight in Go](https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work)  
+1. [Understanding Singleflight in Go](https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work)
+
+1. [Go Singleflight panic and GoExit behaviours](https://victoriametrics.com/blog/go-singleflight/) 
 
 ## Bites from the Golang Manual (aka. RTFM)
 
