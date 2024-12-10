@@ -158,7 +158,9 @@
 
 1. [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 
-1. [JWT vs Cookies for token based auth](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication), [also useful](https://stackoverflow.com/a/37760249) 
+1. [JWT vs Cookies for token based auth](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication), [also useful](https://stackoverflow.com/a/37760249)
+
+1. [When to use grpc, graphql, rest or trpc](https://youtu.be/veAb1fSp1Lk?si=01raSZYILgCDYEp9) 
 
 ## GraphQL
 
