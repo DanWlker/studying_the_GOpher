@@ -156,6 +156,10 @@
 
 1. [Postgres don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 
+1. [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+
+1. [JWT vs Cookies for token based auth](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication), [also useful](https://stackoverflow.com/a/37760249) 
+
 ## GraphQL
 
 1. [Fragment, minimizes token usage as well](https://graphql.org/learn/queries/#fragments)
