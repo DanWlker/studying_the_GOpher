@@ -129,6 +129,8 @@
 
 1. [How To Build A Chat And Data Feed With WebSockets In Golang?](https://www.youtube.com/watch?v=JuUAEYLkGbM)
 
+1. [Go Proverbs with Rob Pike](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+
 ## Good Books
 
 1. [100 Go Mistakes and How to Avoid Them](https://100go.co/)
