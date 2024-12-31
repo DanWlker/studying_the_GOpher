@@ -164,6 +164,8 @@
 
 1. [When to use grpc, graphql, rest or trpc](https://youtu.be/veAb1fSp1Lk?si=01raSZYILgCDYEp9) 
 
+1. [Why your backend shouldn't serve files](https://youtu.be/aybSXT9ZJ8w?si=YvjYSLkE_Px0sXPL)
+
 ## GraphQL
 
 1. [Fragment, minimizes token usage as well](https://graphql.org/learn/queries/#fragments)
