@@ -63,7 +63,9 @@
 
 1. [Understanding Singleflight in Go](https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work)
 
-1. [Go Singleflight panic and GoExit behaviours](https://victoriametrics.com/blog/go-singleflight/) 
+1. [Go Singleflight panic and GoExit behaviours](https://victoriametrics.com/blog/go-singleflight/)
+
+1. [Go interface guards, for when there are no static conversions in code](http://rednafi.com/go/interface_guards/) 
 
 ## Bites from the Golang Manual (aka. RTFM)
 
