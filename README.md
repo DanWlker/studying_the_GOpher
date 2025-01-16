@@ -69,6 +69,11 @@
 
 1. [Function types and single-method interfaces](http://rednafi.com/go/func_types_and_smis/)
    - You can use function types to mock stuff, wow
+  
+1. [Limiting amount of parallel goroutines with buffered channels](http://rednafi.com/go/limit_goroutines_with_buffered_channels/)
+
+1. [Type assertion vs type switches](http://rednafi.com/go/type_assertion_vs_type_switches/)
+   - Apparently you can use a variable in a type switch case 
 
 ## Bites from the Golang Manual (aka. RTFM)
 
