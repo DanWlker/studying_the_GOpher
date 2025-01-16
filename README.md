@@ -65,7 +65,10 @@
 
 1. [Go Singleflight panic and GoExit behaviours](https://victoriametrics.com/blog/go-singleflight/)
 
-1. [Go interface guards, for when there are no static conversions in code](http://rednafi.com/go/interface_guards/) 
+1. [Go interface guards, for when there are no static conversions in code](http://rednafi.com/go/interface_guards/)
+
+1. [Function types and single-method interfaces](http://rednafi.com/go/func_types_and_smis/)
+   - You can use function types to mock stuff, wow
 
 ## Bites from the Golang Manual (aka. RTFM)
 
