@@ -203,6 +203,8 @@
 
 1. [GraphQL check complexity](https://gqlgen.com/reference/complexity/)
 
+1. [Apparently GraphQL does type coercion in its specs](http://spec.graphql.org/June2018/#sec-Type-System.List) 
+
 ## Fuck Yaml Specifically
 
 1. [noyaml website](https://noyaml.com/)
