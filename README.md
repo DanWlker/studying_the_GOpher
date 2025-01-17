@@ -41,6 +41,11 @@
 
 1. [Slices behavior](https://stackoverflow.com/questions/39993688/are-slices-passed-by-value)
 
+1. When and why to use functional options pattern. [1](https://www.reddit.com/r/golang/comments/1ejm6fm/comment/lgeywpx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [2](https://www.reddit.com/r/golang/comments/1ejm6fm/comment/lgf82p0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button):
+   - Default values should be useful, using a struct the default values is implicitly communicated in the struct, and its better to give useful default values. Using functional options it is implicitly done in the `NewXXX` functions. (In other words when it is hard to distinguish default values from a valid setting)
+   - Functional options can return errors
+   - Functional options allow setting a combination of values like `WithAws`, `WithAzure` etc
+     
 ## Good Articles
 
 1. [init() in Go Programming](https://david-yappeter.medium.com/init-in-go-programming-31e2c2bc2371)
