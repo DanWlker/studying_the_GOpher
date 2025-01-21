@@ -181,6 +181,8 @@
 
 1. [Why your backend shouldn't serve files](https://youtu.be/aybSXT9ZJ8w?si=YvjYSLkE_Px0sXPL)
 
+1. [Conventional commit messages](https://www.conventionalcommits.org/en/v1.0.0/) 
+
 ## GraphQL
 
 1. [Fragment, minimizes token usage as well](https://graphql.org/learn/queries/#fragments)
