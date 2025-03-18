@@ -13,7 +13,7 @@
 1. [gofumpt](https://github.com/mvdan/gofumpt)
 1. [mingo](https://github.com/bobg/mingo.git)
 
-## Stack Overflow || Reddit
+## Stack Overflow || Reddit || Forum
 
 1. [What does the . in a Go import statement do](https://stackoverflow.com/a/6478990)
 
@@ -49,6 +49,8 @@
    - Functional options allow setting a combination of values like `WithAws`, `WithAzure` etc. Users can also create their own useful combinations.
   
 1. [Should you return nil or empty slice](https://www.reddit.com/r/golang/comments/ilt0tz/should_you_return_empty_or_nil_slices_in_go/)
+
+1. [Why append a nil slice is OK, while assign a nil map isn't OK?](https://groups.google.com/g/golang-nuts/c/cWpC3MCbuNo) 
 
 ## Good Articles
 
