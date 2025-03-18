@@ -47,6 +47,8 @@
    - Default values should be useful, using a struct the default values is implicitly communicated in the struct, and its better to give useful default values. Using functional options it is implicitly done in the `NewXXX` functions. (In other words when it is hard to distinguish default values from a valid setting)
    - Functional options can return errors
    - Functional options allow setting a combination of values like `WithAws`, `WithAzure` etc. Users can also create their own useful combinations.
+  
+1. [Should you return nil or empty slice](https://www.reddit.com/r/golang/comments/ilt0tz/should_you_return_empty_or_nil_slices_in_go/)
 
 ## Good Articles
 
@@ -82,6 +84,8 @@
 
 1. [Type assertion vs type switches](http://rednafi.com/go/type_assertion_vs_type_switches/)
    - Apparently you can use a variable in a type switch case
+  
+1. [Golang slices behaviour](https://rezakhademix.medium.com/slices-in-golang-common-mistakes-and-best-practices-76c30857d4e4)
 
 ## Bites from the Golang Manual (aka. RTFM)
 
