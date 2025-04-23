@@ -101,6 +101,12 @@
 
 1. [Go slice tricks](https://go.dev/wiki/SliceTricks)
 
+1. [The Thundering Herd Problem](https://encore.dev/blog/thundering-herd-problem)
+
+1. [Retries](https://encore.dev/blog/retries)
+
+   - this is really really really fuckin good 
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
