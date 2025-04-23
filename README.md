@@ -101,12 +101,6 @@
 
 1. [Go slice tricks](https://go.dev/wiki/SliceTricks)
 
-1. [The Thundering Herd Problem](https://encore.dev/blog/thundering-herd-problem)
-
-1. [Retries](https://encore.dev/blog/retries)
-
-   - this is really really really fuckin good 
-
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
@@ -206,6 +200,12 @@
 
 1. [Conventional commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
 
+1. [The Thundering Herd Problem](https://encore.dev/blog/thundering-herd-problem)
+
+1. [Retries](https://encore.dev/blog/retries)
+
+   - this is really really really fuckin good 
+
 ## GraphQL
 
 1. [Fragment, minimizes token usage as well](https://graphql.org/learn/queries/#fragments)
@@ -231,6 +231,10 @@
 1. [GraphQL check complexity](https://gqlgen.com/reference/complexity/)
 
 1. [Apparently GraphQL does type coercion in its specs](http://spec.graphql.org/June2018/#sec-Type-System.List)
+
+1. [GraphQL federation](https://graphql.org/learn/federation/)
+
+1. [Federated architecture](https://graphql.com/learn/federated-architecture/) 
 
 ## Fuck Yaml Specifically
 
