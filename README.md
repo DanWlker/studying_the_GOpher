@@ -249,3 +249,5 @@
 1. [Yaml test matrix](https://matrix.yaml.info/valid.html)
 
 1. [Yaml strips out underscore](https://drupal.stackexchange.com/questions/238639/why-does-yaml-parser-strippes-out-underscore)
+
+1. [Yaml anchors](https://support.atlassian.com/bitbucket-cloud/docs/yaml-anchors/) 
