@@ -236,6 +236,8 @@
 
 1. [Federated architecture](https://graphql.com/learn/federated-architecture/) 
 
+1. [Dataloader](https://github.com/graphql/dataloader)
+
 ## Fuck Yaml Specifically
 
 1. [noyaml website](https://noyaml.com/)
