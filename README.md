@@ -52,6 +52,10 @@
 
 1. [Why append a nil slice is OK, while assign a nil map isn't OK?](https://groups.google.com/g/golang-nuts/c/cWpC3MCbuNo) 
 
+1. [Why recover() can only be used in a defer function and not directly](https://www.reddit.com/r/golang/s/HnSUSy2L6s)
+   - a.k.a. `defer recover()` doesnt work but `defer func() {recover()}` does
+   - [extra](https://groups.google.com/g/golang-nuts/c/SwmjC_j5q90/m/99rdN1LEN1kJ?pli=1)
+
 ## Good Articles
 
 1. [init() in Go Programming](https://david-yappeter.medium.com/init-in-go-programming-31e2c2bc2371)
