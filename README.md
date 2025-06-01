@@ -93,6 +93,10 @@
   
 1. [Golang slices behaviour](https://rezakhademix.medium.com/slices-in-golang-common-mistakes-and-best-practices-76c30857d4e4)
 
+1. [Issues with comparing pointers of zero sized type](https://blog.fillmore-labs.com/posts/zerosized-1/)
+
+   - [Language spec](https://go.dev/ref/spec#Comparison_operators) states that equality of pointers to distinct zero size variables is unspecified
+
 ## Bites from the Golang Manual (aka. RTFM)
 
 1. [nil_error behaviors](https://go.dev/doc/faq#nil_error)
