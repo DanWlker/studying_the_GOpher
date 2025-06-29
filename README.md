@@ -174,6 +174,8 @@
 1. [100 Go Mistakes and How to Avoid Them](https://100go.co/)
 
    - [Screenshots](./100_go_mistakes_and_how_to_avoid_them)
+  
+2. [50 Shades of Go](https://github.com/diptomondal007/GoLangBooks/blob/master/50%20Shades%20of%20Go%20Traps%20GotchasandCommonMistakesforNewGolangDevs.pdf)
 
 ## Notes
 
