@@ -55,6 +55,8 @@
 1. [Why recover() can only be used in a defer function and not directly](https://www.reddit.com/r/golang/s/HnSUSy2L6s)
    - a.k.a. `defer recover()` doesnt work but `defer func() {recover()}` does
    - [extra](https://groups.google.com/g/golang-nuts/c/SwmjC_j5q90/m/99rdN1LEN1kJ?pli=1)
+  
+1. [Breaking out of a select statement when all channels are closed](https://stackoverflow.com/a/13666733)
 
 ## Good Articles
 
@@ -96,6 +98,11 @@
 1. [Issues with comparing pointers of zero sized type](https://blog.fillmore-labs.com/posts/zerosized-1/)
 
    - [Language spec](https://go.dev/ref/spec#Comparison_operators) states that equality of pointers to distinct zero size variables is unspecified
+  
+1. [Channel Closing](https://go101.org/article/channel-closing.html)
+
+   - Don't close a channel from the receiver side
+   - Don't close a channel if the channel has multiple concurrent senders
 
 ## Bites from the Golang Manual (aka. RTFM)
 
@@ -108,6 +115,8 @@
 1. [Go subtests](https://go.dev/blog/subtests)
 
 1. [Go slice tricks](https://go.dev/wiki/SliceTricks)
+
+1. [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
 
 ## Good Videos
 
