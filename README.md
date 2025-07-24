@@ -103,6 +103,8 @@
 
    - Don't close a channel from the receiver side
    - Don't close a channel if the channel has multiple concurrent senders
+  
+1. [Golang benchmarking](https://blog.logrocket.com/benchmarking-golang-improve-function-performance/)
 
 ## Bites from the Golang Manual (aka. RTFM)
 
