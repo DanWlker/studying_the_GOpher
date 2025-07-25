@@ -120,6 +120,8 @@
 
 1. [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
 
+1. [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+
 ## Good Videos
 
 1. [Go concurrency patterns](https://youtu.be/f6kdp27TYZs?si=DqVBjbLDGg31j8XK)
