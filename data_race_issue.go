@@ -33,8 +33,8 @@ func repeatGet() {
 	for {
 		// rwMutex.RLock()
 		x := globalVar
-		x.get()
 		// rwMutex.RUnlock()
+		x.get()
 	}
 }
 
