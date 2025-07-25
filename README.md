@@ -106,6 +106,8 @@
   
 1. [Golang benchmarking](https://blog.logrocket.com/benchmarking-golang-improve-function-performance/)
 
+1. [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+
 ## Bites from the Golang Manual (aka. RTFM)
 
 1. [nil_error behaviors](https://go.dev/doc/faq#nil_error)
@@ -119,8 +121,6 @@
 1. [Go slice tricks](https://go.dev/wiki/SliceTricks)
 
 1. [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
-
-1. [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 
 ## Good Videos
 
