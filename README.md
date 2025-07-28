@@ -112,6 +112,8 @@
    - Go stores values of interface types like Thing as pairs of a pointer to the data and a pointer to the vtable. Every time repeat_swap stores a new value in globalVar, it just does two separate stores to update those two pointers. In repeat_get, there’s thus a small chance that when we read globalVar in between those two stores, we get a mix of a pointer to an Int with the vtable for a Ptr. When that happens, we will run the Ptr version of get, which will dereference the Int’s val field as a pointer – and hence the program accesses address 42, and crashes.
    - Can be solved by mutex
 
+1. [Go's data race detector blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
+
 ## Bites from the Golang Manual (aka. RTFM)
 
 1. [nil_error behaviors](https://go.dev/doc/faq#nil_error)
