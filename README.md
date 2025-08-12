@@ -9,7 +9,8 @@
 1. [gci](https://github.com/daixiang0/gci)
 
         gci write --skip-generated -s standard -s default -s localmodule .
-
+   
+1. [automemlimit](https://github.com/KimMachineGun/automemlimit) 
 1. [gofumpt](https://github.com/mvdan/gofumpt)
 1. [mingo](https://github.com/bobg/mingo.git)
 
@@ -127,6 +128,8 @@
 1. [Go slice tricks](https://go.dev/wiki/SliceTricks)
 
 1. [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
+
+1. [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide#Memory_limit) 
 
 ## Good Videos
 
