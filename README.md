@@ -236,9 +236,9 @@
 
 1. [Retries](https://encore.dev/blog/retries)
 
+   - this is really really really fuckin good
+  
 1. [Visualizing garbage collection allocations](https://spin.atomicobject.com/visualizing-garbage-collection-algorithms/) 
-
-   - this is really really really fuckin good 
 
 ## GraphQL
 
