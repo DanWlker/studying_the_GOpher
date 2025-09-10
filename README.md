@@ -129,7 +129,11 @@
 
 1. [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
 
-1. [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide#Memory_limit) 
+1. [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide#Memory_limit)
+
+1. [Calculating multiple file hashes in a single pass](http://marcio.io/2015/07/calculating-multiple-file-hashes-in-a-single-pass/)
+
+1. [Reading multiple times from an io reader](https://golang.cafe/blog/how-to-read-multiple-times-from-an-io-reader-golang.html) 
 
 ## Good Videos
 
